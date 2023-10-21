@@ -1,7 +1,7 @@
 ### Olá, eu sou o Pedro Diniz👋
 
 - 🔭 Hoje trabalho na Accenture com suporte e desenvolvimento
-- 🌱 Estou estudando Angular, C# e JavaScript
+- 🌱 Estou estudando Angular e C#
 - 📫 Contate-me no email: pedrogabrielvilacadiniz@gmail.com
 
 <header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></header>

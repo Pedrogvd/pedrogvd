@@ -1,8 +1,7 @@
-### Olá, eu sou o Pedro Diniz👋
+### Hi, I'm Pedro Diniz 👋
 
-- 🔭 Hoje trabalho na Accenture com suporte e desenvolvimento
-- 🌱 Estou estudando Angular e C#
-- 📫 Contate-me no email: pedrogabrielvilacadiniz@gmail.com
+- 🔭 Currently working at Levty as a Software Engineer (Elasticsearch and JavaScript)
+- 📫 Reach me at: pedrogabrielvilacadiniz@gmail.com
 
 <header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></header>
 <div align="center">
@@ -16,13 +15,15 @@
  <img align="center" alt="Pedro-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img align="center" alt="Pedro-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
   
 </div>
   
   <hr>
   <div> 
-  <a href="https://www.instagram.com/_pedrogvd/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pedrogvd/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
   </div>
   
